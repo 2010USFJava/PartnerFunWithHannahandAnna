@@ -10,7 +10,8 @@ public class Main {
 		System.out.println(b);
 		Toy c =new Toy("Ball","ball",0);
 		System.out.println(c);
-				
+		Dog r= new Dog("Romeo",55,"Border Collie",a);
+		System.out.println(r);
 	}
 
 }
