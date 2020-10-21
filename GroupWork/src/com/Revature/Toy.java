@@ -4,7 +4,8 @@ public class Toy {
 	private String name;
 	private String nickname;
 	private int damageRating;
-	 public Toy() {
+	 
+	public Toy() {
 		 
 	 }
 	 public Toy(String name, String nickname, int damageRating) {
