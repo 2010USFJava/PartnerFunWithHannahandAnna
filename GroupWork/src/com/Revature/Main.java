@@ -4,7 +4,8 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("This is the main method");
+		System.out.println("This is the Anna's welcome message\n"
+				+ "W E  L C     O M E");
 		
 		Toy a= new Toy("Pig","Piggie",4);
 		System.out.println(a);
