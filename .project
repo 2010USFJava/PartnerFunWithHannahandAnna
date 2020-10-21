@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 	<name>PartnerFunWithCarlsonAAndBrownH2</name>
@@ -15,3 +16,31 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
 </projectDescription>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+<<<<<<< HEAD
+	<name>PartnerFunWithHannahandAnna</name>
+=======
+	<name>PartnerFunWithCarlsonAAndBrownH2</name>
+>>>>>>> 6fe58c352ab2779c214077835a01f67b58cb6ee8
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+<<<<<<< HEAD
+	</buildSpec>
+	<natures>
+=======
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+>>>>>>> 6fe58c352ab2779c214077835a01f67b58cb6ee8
+	</natures>
+</projectDescription>
+>>>>>>> 2a4ad0eb634fba75a1c776b8613a44d75e08a057
